@@ -154,7 +154,7 @@ if (expensesTable) {
 }
 
 if (logoutBtn) {
-    logoutBtn.addEventListener('click', () => window.location.href = '/auth.html')
+    logoutBtn.addEventListener('click', () => window.location.href = '/index.html')
 }
 
 if (changeForm) {
